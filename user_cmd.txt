@@ -1,0 +1,9 @@
+adduser
+deluser
+newusers
+pam_extrausers_chkpwd
+pam_extrausers_update
+runuser
+useradd
+userdel
+usermod
