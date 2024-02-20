@@ -570,3 +570,173 @@ git config --global user.email
 git config --list
 cleat
 clear
+mkdir git_project
+ls
+cd ~/git_project
+git init
+ls
+cp C:/Users/exigo/Downloads/.gitignore ~/git_project/.gitignore
+cp C:/Users/exigo/Downloads/.gitignore/ ~/git_project/.gitignore
+cp /Users/exigo/Downloads/.gitignore/ ~/git_project/.gitignore
+cp ~/C:/Users/exigo/Downloads/.gitignore ~/git_project/.gitignore
+cp \\wsl.localhost\Ubuntu-22.04\home\dmitry.gitignore ~/git_project/.gitignore
+cp ~/home/dmitry.gitignore ~/git_project/.gitignore
+cd -
+ls
+cp gitignore ~/git_project/.gitignore
+cd git_project
+ls
+git add .gitignore
+git commit -m "Add .gitignore file"
+mkdir src
+touch src/main.py
+mkdir tests
+touch tests/test_basic.py
+ЗНАЮ, ЧТО МОГ СОЗДАТЬ В 2 СТРОКИ, А НЕ В 4, МОЙ КОСЯК, ТОРОПЛЮСЬ ПРОСТО)
+git add src/main.py
+git commit -m "Add main.py file"
+git add tests/test_basic.py
+git commit -m "Add test_basic.py file"
+clear
+git config --global credential.helper cache
+ssh-keygen
+cd -
+ssh-keygen
+clear
+ssh-keygen
+ssh-keygen -t ed25519 -C "exigo53@email.com"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C "name@email.com"
+n
+~/new.pub
+~/eval "$(ssh-agent -s)".pub
+cat ~/eval "$(ssh-agent -s)".pub
+cat eval $(ssh-agent -s).pub
+git remote add origin git@github.com:yashin-dmitry/project.git
+git branch -M main
+git push -u origin main
+git remote add origin git@github.com:yashin-dmitry/project.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/yashin-dmitry/project.git
+git branch -M main
+git push -u origin main
+git fetch
+git pull
+git merge
+git push -u origin main
+clear
+git push -u origin main
+git remote
+git push -u origin main
+git add.
+git add .
+git commit -m "first commit"
+git push -u origin main
+clear
+git push -u origin main
+ls ~/.ssh/
+ssh-keygen -t ed25519 -C "name@email.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+git remote add origin git@github.com:ТУТ_ВАШЕ_ГИТХАБ_ИМЯ/project.git
+git push -u origin main
+git remote add origin git@github.com:yashin-dmitry/git_project.git
+git branch -M main
+git push -u origin main
+git pull origin main
+git add main.py
+git commit -m "Add code to print 'Hello World'"
+git push origin main
+git add main.py
+git commit -m "Add code to print 'Hello World'"
+git push origin main
+git add main.py
+git add funcs.py
+ssh -T git@gihub.com
+ssh -T git@github.com
+git@github.com:yashin-dmitry/pycharm_project.git
+git push -u origin main
+git branch -M main
+git fetch
+git status
+ssh -T git@github.com
+git pull
+git merge
+git remote
+git remote -v
+git push <remote> <branch>
+git clone git@github.com:yashin-dmitry/pycharm_project.git
+сдуфк
+clear
+ды
+clear
+ls
+claer
+clear
+cd git_prokect
+ls
+clear
+cd git_project
+git remote add origin git@github.com:yashin-dmitry/git_project.git
+clear
+git add .
+git commit -m "Initial commit
+s
+
+
+
+sdas
+dasdasd
+asd
+clear
+exit
+cd git_project
+git add .
+git commit -m "Initial commit"
+git commit -m "commit"
+clear
+git add <file1> <file2> ... <fileN>
+clear
+git add first commit
+clear
+git add -A
+git commit -m "first commit"
+clear
+git push -u origin main
+git checkout -b main
+git add .
+git commit -m "first commit"
+git push -u origin main
+git pull
+git push -u origin main
+git pull
+git push -u origin main
+git pull
+git pull origin main
+git fetch origin main
+git push origin main
+ping github.com
+traceroute github.com
+sudo apt install inetutils-traceroute
+traceroute github.com
+sudo apt install inetutils-traceroute
+sudo apt install traceroute
+git push -u origin main
+ls
+cd git_project
+ls
+rm -r .git
+cd git_project
+rm -r /.git
+rm -r .git
+cd git_project
+sudo rm -r .git
+git add .
+git commit -m "Your commit message here"
+git add
+git add .
+git commir -a
+git commit -a
