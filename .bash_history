@@ -740,3 +740,38 @@ git add
 git add .
 git commir -a
 git commit -a
+ls
+cd git_project
+ls
+git add .
+git commit -a
+git add .
+git commit -m "first commit"
+git add ../pycharm_project/
+cd -
+git add .
+cd git_project
+git add main.py
+cd -
+git add main.py
+ls
+git --version
+C:\> git update-git-for-windows
+git update-git-for-windows
+git update
+git --help
+C:\> git update-git-for-windows
+Git for Windows 2.17.0.windows.1 (64bit)
+Up to date
+C:\> git update-git-for-windows
+Git for Windows 2.17.0.windows.1 (64bit)
+Up to dateclear
+clear
+C:\> git update-git-for-windows
+Git for Windows 2.17.0.windows.1 (64bit)
+Up to dateC:\> git update-git-for-windows
+Git for Windows 2.17.0.windows.1 (64bit)
+Up to dateclear
+clear
+git --version
+git update-git-for-windows
